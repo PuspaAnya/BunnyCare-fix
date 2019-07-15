@@ -57,7 +57,7 @@
             android:layout_width="145dp"
             android:layout_height="178dp"
             android:layout_gravity="center"
-            android:src="@drawable/applogo" />
+            android:src="@drawable/bunnycare_logo_wtext_new" />
 
         <TextView
             android:layout_width="match_parent"
